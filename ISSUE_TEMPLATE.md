@@ -17,6 +17,4 @@ You can attach your `TheIsle.log` file from the games log directory to the repor
 
 > **Game Version:** In the main menu, on the bottom right
 
-> **Operating System**: Windows, Linux or Mac
-
 > **Network Role**: Client, Listen Server or Dedicated Server
